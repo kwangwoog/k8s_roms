@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/roms_repo/!svn/ver/16
+END
+ifort_ideal
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/roms_repo/!svn/ver/1/ifort_ideal
+END
+ifort_ideal_rdrag2
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/roms_repo/!svn/ver/1/ifort_ideal_rdrag2
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/roms_repo/!svn/ver/10/.project
+END
+pgi_test_acc
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/roms_repo/!svn/ver/1/pgi_test_acc
+END
+comile_make.log
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/roms_repo/!svn/ver/1/comile_make.log
+END
+makefile.base
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/roms_repo/!svn/ver/1/makefile.base
+END
+.cproject
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/roms_repo/!svn/ver/10/.cproject
+END
+ifort_ideal_tau
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/roms_repo/!svn/ver/1/ifort_ideal_tau
+END
+test_ifort_add
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/roms_repo/!svn/ver/1/test_ifort_add
+END
+ifort_ideal_tau_rdrag2
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/roms_repo/!svn/ver/1/ifort_ideal_tau_rdrag2
+END
+ifort_pohang_ob
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/roms_repo/!svn/ver/1/ifort_pohang_ob
+END
+pgi_test_nwp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/roms_repo/!svn/ver/1/pgi_test_nwp
+END
+pgi_test_nwp_no_acc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/roms_repo/!svn/ver/1/pgi_test_nwp_no_acc
+END
+ifort_pohang_close
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/roms_repo/!svn/ver/1/ifort_pohang_close
+END
+compile_make.log
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/roms_repo/!svn/ver/1/compile_make.log
+END
+ifort_nwp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/roms_repo/!svn/ver/1/ifort_nwp
+END
+pgi_test_nwp_acc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/roms_repo/!svn/ver/18/pgi_test_nwp_acc
+END
+pgi_test_acc.org
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/roms_repo/!svn/ver/1/pgi_test_acc.org
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/roms_repo/!svn/ver/1/makefile
+END
+pgi_test
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/roms_repo/!svn/ver/1/pgi_test
+END

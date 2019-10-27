@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/roms_repo/!svn/ver/1/Lib/MCT/examples/simple
+END
+twocmp.con.F90
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/roms_repo/!svn/ver/1/Lib/MCT/examples/simple/twocmp.con.F90
+END
+twocmp.seqUnvn.F90
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/roms_repo/!svn/ver/1/Lib/MCT/examples/simple/twocmp.seqUnvn.F90
+END
+script.babyblue
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/roms_repo/!svn/ver/1/Lib/MCT/examples/simple/script.babyblue
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/roms_repo/!svn/ver/1/Lib/MCT/examples/simple/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/roms_repo/!svn/ver/1/Lib/MCT/examples/simple/README
+END
+twocmp.seq.F90
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/roms_repo/!svn/ver/1/Lib/MCT/examples/simple/twocmp.seq.F90
+END
+twocmp.seqNB.F90
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/roms_repo/!svn/ver/1/Lib/MCT/examples/simple/twocmp.seqNB.F90
+END

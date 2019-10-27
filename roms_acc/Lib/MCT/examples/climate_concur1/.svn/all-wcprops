@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/roms_repo/!svn/ver/1/Lib/MCT/examples/climate_concur1
+END
+coupler.F90
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/roms_repo/!svn/ver/1/Lib/MCT/examples/climate_concur1/coupler.F90
+END
+master.F90
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/roms_repo/!svn/ver/1/Lib/MCT/examples/climate_concur1/master.F90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/roms_repo/!svn/ver/1/Lib/MCT/examples/climate_concur1/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/roms_repo/!svn/ver/1/Lib/MCT/examples/climate_concur1/README
+END
+model.F90
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/roms_repo/!svn/ver/1/Lib/MCT/examples/climate_concur1/model.F90
+END

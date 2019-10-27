@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/roms_repo/!svn/ver/1/Lib/MCT/data
+END
+grid.320x384.da
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/roms_repo/!svn/ver/1/Lib/MCT/data/grid.320x384.da
+END
+kmt_full_40.da
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/roms_repo/!svn/ver/1/Lib/MCT/data/kmt_full_40.da
+END
+popx1_to_t42_c_mat.asc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/roms_repo/!svn/ver/1/Lib/MCT/data/popx1_to_t42_c_mat.asc
+END
+t42_to_popx1_c_mat.asc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/roms_repo/!svn/ver/1/Lib/MCT/data/t42_to_popx1_c_mat.asc
+END

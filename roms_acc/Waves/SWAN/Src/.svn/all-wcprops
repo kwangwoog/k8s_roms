@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/roms_repo/!svn/ver/1/Waves/SWAN/Src
+END
+swancom4.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/roms_repo/!svn/ver/1/Waves/SWAN/Src/swancom4.F
+END
+swancom5.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/roms_repo/!svn/ver/1/Waves/SWAN/Src/swancom5.F
+END
+mod_xnl4v5.F
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/roms_repo/!svn/ver/1/Waves/SWAN/Src/mod_xnl4v5.F
+END
+ocpmix.F
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/roms_repo/!svn/ver/1/Waves/SWAN/Src/ocpmix.F
+END
+serv_xnl4v5.F
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/roms_repo/!svn/ver/1/Waves/SWAN/Src/serv_xnl4v5.F
+END
+swanpre1.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/roms_repo/!svn/ver/1/Waves/SWAN/Src/swanpre1.F
+END
+swanpre2.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/roms_repo/!svn/ver/1/Waves/SWAN/Src/swanpre2.F
+END
+swanparll.F
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/roms_repo/!svn/ver/1/Waves/SWAN/Src/swanparll.F
+END
+Module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/roms_repo/!svn/ver/1/Waves/SWAN/Src/Module.mk
+END
+platform.pl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/roms_repo/!svn/ver/1/Waves/SWAN/Src/platform.pl
+END
+swmod1.F
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/roms_repo/!svn/ver/1/Waves/SWAN/Src/swmod1.F
+END
+ocpcre.F
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/roms_repo/!svn/ver/1/Waves/SWAN/Src/ocpcre.F
+END
+swmod2.F
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/roms_repo/!svn/ver/1/Waves/SWAN/Src/swmod2.F
+END
+swancpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/roms_repo/!svn/ver/1/Waves/SWAN/Src/swancpp.h
+END
+swanmain.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/roms_repo/!svn/ver/1/Waves/SWAN/Src/swanmain.F
+END
+waves_coupler.F
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/roms_repo/!svn/ver/1/Waves/SWAN/Src/waves_coupler.F
+END
+swanout1.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/roms_repo/!svn/ver/1/Waves/SWAN/Src/swanout1.F
+END
+ocpids.F
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/roms_repo/!svn/ver/1/Waves/SWAN/Src/ocpids.F
+END
+swanser.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/roms_repo/!svn/ver/1/Waves/SWAN/Src/swanser.F
+END
+swanout2.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/roms_repo/!svn/ver/1/Waves/SWAN/Src/swanout2.F
+END
+m_fileio.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/roms_repo/!svn/ver/1/Waves/SWAN/Src/m_fileio.F
+END
+m_constants.F
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/roms_repo/!svn/ver/1/Waves/SWAN/Src/m_constants.F
+END
+swancom1.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/roms_repo/!svn/ver/1/Waves/SWAN/Src/swancom1.F
+END
+swancom2.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/roms_repo/!svn/ver/1/Waves/SWAN/Src/swancom2.F
+END
+swancom3.F
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/roms_repo/!svn/ver/1/Waves/SWAN/Src/swancom3.F
+END

@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/roms_repo/!svn/ver/1/Compilers
+END
+UNICOS-sn-f90.mk
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/roms_repo/!svn/ver/1/Compilers/UNICOS-sn-f90.mk
+END
+Darwin-xlf.mk
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/roms_repo/!svn/ver/1/Compilers/Darwin-xlf.mk
+END
+Linux-pgi.mk
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/roms_repo/!svn/ver/1/Compilers/Linux-pgi.mk
+END
+Linux-ifort.mk
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/roms_repo/!svn/ver/1/Compilers/Linux-ifort.mk
+END
+Darwin-f90.mk
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/roms_repo/!svn/ver/1/Compilers/Darwin-f90.mk
+END
+CYGWIN-gfortran.mk
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/roms_repo/!svn/ver/1/Compilers/CYGWIN-gfortran.mk
+END
+IRIX64-f90.mk
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/roms_repo/!svn/ver/1/Compilers/IRIX64-f90.mk
+END
+CYGWIN-ifort.mk
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/roms_repo/!svn/ver/1/Compilers/CYGWIN-ifort.mk
+END
+Linux-path.mk
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/roms_repo/!svn/ver/1/Compilers/Linux-path.mk
+END
+Linux-ifc.mk
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/roms_repo/!svn/ver/1/Compilers/Linux-ifc.mk
+END
+Darwin-pgi.mk
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/roms_repo/!svn/ver/1/Compilers/Darwin-pgi.mk
+END
+MINGW-gfortran.mk
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/roms_repo/!svn/ver/1/Compilers/MINGW-gfortran.mk
+END
+UNICOS-mk-f90.mk
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/roms_repo/!svn/ver/1/Compilers/UNICOS-mk-f90.mk
+END
+Darwin-gfortran.mk
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/roms_repo/!svn/ver/1/Compilers/Darwin-gfortran.mk
+END
+Darwin-ifort.mk
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/roms_repo/!svn/ver/1/Compilers/Darwin-ifort.mk
+END
+AIX-xlf.mk
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/roms_repo/!svn/ver/1/Compilers/AIX-xlf.mk
+END
+SunOS-f95.mk
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/roms_repo/!svn/ver/1/Compilers/SunOS-f95.mk
+END
+Linux-pgi.mk.no.acc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/roms_repo/!svn/ver/1/Compilers/Linux-pgi.mk.no.acc
+END
+Linux-necsx.mk
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/roms_repo/!svn/ver/1/Compilers/Linux-necsx.mk
+END
+Linux-gfortran.mk
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/roms_repo/!svn/ver/1/Compilers/Linux-gfortran.mk
+END
+MINGW-g95.mk
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/roms_repo/!svn/ver/1/Compilers/MINGW-g95.mk
+END
+Linux-ftn.mk
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/roms_repo/!svn/ver/1/Compilers/Linux-ftn.mk
+END
+CYGWIN-df.mk
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/roms_repo/!svn/ver/1/Compilers/CYGWIN-df.mk
+END
+SunOS-ftn.mk
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/roms_repo/!svn/ver/1/Compilers/SunOS-ftn.mk
+END
+UNICOS-mp-ftn.mk
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/roms_repo/!svn/ver/1/Compilers/UNICOS-mp-ftn.mk
+END
+Linux-g95.mk
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/roms_repo/!svn/ver/1/Compilers/Linux-g95.mk
+END
+Linux-pgi.mk.acc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/roms_repo/!svn/ver/1/Compilers/Linux-pgi.mk.acc
+END
+make_macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/roms_repo/!svn/ver/1/Compilers/make_macros.h
+END
+CYGWIN-g95.mk
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/roms_repo/!svn/ver/1/Compilers/CYGWIN-g95.mk
+END
+Linux-pgi.mk.org
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/roms_repo/!svn/ver/1/Compilers/Linux-pgi.mk.org
+END
+OSF1-f90.mk
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/roms_repo/!svn/ver/1/Compilers/OSF1-f90.mk
+END
